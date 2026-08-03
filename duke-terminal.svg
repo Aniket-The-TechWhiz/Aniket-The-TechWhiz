@@ -58,11 +58,11 @@ text { font-size: 15px; }
 <g class="fade" style="animation: fadeAnim 0.25s ease 1.380s forwards"><text x="293.20000000000005" y="401" font-size="15"><tspan class="na">DB</tspan><tspan class="di">: </tspan><tspan class="tx">MySQL, PostgreSQL, Redis</tspan></text></g>
 <g class="fade" style="animation: fadeAnim 0.25s ease 1.415s forwards"><text x="293.20000000000005" y="418" font-size="15"><tspan class="na">Core</tspan><tspan class="di">: </tspan><tspan class="tx">OOP, DSA, Multithreading, REST APIs, JWT</tspan></text></g>
 
-<!-- docker ps -->
-<g class="type" style="animation: typeAnim 0.3s steps(24,start) 2.105s forwards"><text x="60" y="679" font-size="17"><tspan class="pr">aniket@techwhiz</tspan><tspan class="di">:~ </tspan><tspan class="br">(main)</tspan><tspan class="pr">$</tspan><tspan class="cm"> docker ps   # internships</tspan></text></g>
+<!-- <!-- docker ps -->
+<!-- <g class="type" style="animation: typeAnim 0.3s steps(24,start) 2.105s forwards"><text x="60" y="679" font-size="17"><tspan class="pr">aniket@techwhiz</tspan><tspan class="di">:~ </tspan><tspan class="br">(main)</tspan><tspan class="pr">$</tspan><tspan class="cm"> docker ps   # internships</tspan></text></g>
 <g class="fade" style="animation: fadeAnim 0.25s ease 2.505s forwards"><text x="60" y="725" class="th" font-size="15" xml:space="preserve">CONTAINER     IMAGE                  DURATION       ROLE</text></g>
 <g class="fade" style="animation: fadeAnim 0.25s ease 2.625s forwards"><text x="60" y="755" class="tx" font-size="15" xml:space="preserve">shadowfox     java/multithreaded     Aug-Sep 2025   java-dev-intern</text></g>
-<g class="fade" style="animation: fadeAnim 0.25s ease 2.755s forwards"><text x="60" y="785" class="tx" font-size="15" xml:space="preserve">proazure      android/arduino        Jun-Jul 2023   android-dev-intern</text></g>
+<g class="fade" style="animation: fadeAnim 0.25s ease 2.755s forwards"><text x="60" y="785" class="tx" font-size="15" xml:space="preserve">proazure      android/arduino        Jun-Jul 2023   android-dev-intern</text></g> --> -->
 
 <!-- ls contributions -->
 <g class="type" style="animation: typeAnim 0.3s steps(20,start) 3.085s forwards"><text x="60" y="841" font-size="17"><tspan class="pr">aniket@techwhiz</tspan><tspan class="di">:~ </tspan><tspan class="br">(main)</tspan><tspan class="pr">$</tspan><tspan class="cm"> ls -1 ~/contributions</tspan></text></g>
