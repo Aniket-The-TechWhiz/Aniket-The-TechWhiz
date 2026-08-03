@@ -12,12 +12,25 @@
 
 ---
 
+### terminal
+
+<p align="center">
+  <img src="duke-terminal.svg" alt="animated terminal: neofetch showing a colored Duke silhouette built from characters, then docker ps and tech-stack listing typing out" width="720"/>
+</p>
+
+> Commands type themselves out, then the Duke mascot (rendered from real terminal characters, colored to match — not a solid block) and each detail line print in one at a time, just like a live session. It loops.
+>
+> **Setup:** download `duke-terminal.svg` (shared alongside this README) and commit it to your repo, e.g. in an `assets/` folder, then keep the `<img>` tag above pointing at that path — GitHub renders the animation automatically on the repo page.
+
+---
+
 ## 👨‍💻 About me
-- 🎓 Computer Engineering Student  
-- 💻 Backend Developer (Java + Spring Boot | Node.js + Express)  
-- 🧩 Strong in DSA & problem solving  
-- ⚡ Building scalable and efficient backend systems  
-- 🌱 Exploring System Design & AI  
+- 🎓 Computer Engineering Student
+- 💻 Backend Developer (Java + Spring Boot | Node.js + Express)
+- 🧩 Strong in DSA & problem solving
+- ⚡ Building scalable and efficient backend systems
+- 🌱 Exploring System Design & AI
+
 ---
 
 ## 🛠 Tech Stack
@@ -57,6 +70,3 @@
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
   </a>
 </p>
-
----
-
