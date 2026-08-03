@@ -1,72 +1,21 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Aniket Yelameli
-</h1>
-
+<!-- ─────────────────────────  TERMINAL  ───────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver" />
+  <img src="./duke-terminal.svg" alt="Aniket Yelameli — terminal" width="980" />
 </p>
 
+<!-- ─────────────────────────  links  ───────────────────────── -->
 <p align="center">
-  💻 Backend Developer | ⚡ Scalable System Design | 🚀 Tech Explorer
+  <a href="https://www.linkedin.com/in/aniket-yelameli/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=79c0ff"></a>
+  <a href="https://github.com/Aniket-The-TechWhiz"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3"></a>
+  <a href="mailto:aniketyelameli@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=febc2e"></a>
+  <a href="https://moviex-psi-lemon.vercel.app/"><img src="https://img.shields.io/badge/Movix_Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=7ee787"></a>
 </p>
 
----
-
-### terminal
-
+<!-- ─────────────────────────  attached: stats (live from GitHub)  ───────────────────────── -->
 <p align="center">
-  <img src="duke-terminal.svg" alt="animated terminal: neofetch showing a colored Duke silhouette built from characters, then docker ps and tech-stack listing typing out" width="720"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniket-The-TechWhiz&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=79c0ff&icon_color=7ee787&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-The-TechWhiz&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=79c0ff&text_color=c9d1d9" height="170" />
 </p>
-
-> Commands type themselves out, then the Duke mascot (rendered from real terminal characters, colored to match — not a solid block) and each detail line print in one at a time, just like a live session. It loops.
->
-> **Setup:** download `duke-terminal.svg` (shared alongside this README) and commit it to your repo, e.g. in an `assets/` folder, then keep the `<img>` tag above pointing at that path — GitHub renders the animation automatically on the repo page.
-
----
-
-## 👨‍💻 About me
-- 🎓 Computer Engineering Student
-- 💻 Backend Developer (Java + Spring Boot | Node.js + Express)
-- 🧩 Strong in DSA & problem solving
-- ⚡ Building scalable and efficient backend systems
-- 🌱 Exploring System Design & AI
-
----
-
-## 🛠 Tech Stack
-
-<!-- Clean Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=header&text=Tech%20Stack&fontSize=30&fontColor=ffffff" />
-</p>
-
-<!-- Smooth typing animation (reliable) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+Node.js+%7C+React;Backend+Engineering+%7C+REST+APIs+%7C+System+Design;Clean+Code+%7C+Scalable+Architecture" />
-</p>
-
-<!-- Tech icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,nextjs,js,tailwind,mysql,postgres,mongodb,docker,git,github,postman,vscode,linux&perline=9" />
-</p>
-
-<!-- Simple divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3&section=header"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Aniket-The-TechWhiz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aniket-yelameli/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://aniket-the-techwhiz.github.io/portfolio-aniket/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Aniket-The-TechWhiz&background=0d1117&border=30363d&stroke=30363d&ring=79c0ff&fire=f78166&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=79c0ff&sideLabels=8b949e&dates=6e7681&hide_border=false" />
 </p>
