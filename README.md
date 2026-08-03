@@ -1,6 +1,6 @@
 <!-- ─────────────────────────  TERMINAL  ───────────────────────── -->
 <p align="center">
-  <img src="./duke-terminal.svg" alt="Aniket Yelameli — terminal" width="980" />
+  <img src="./profile/terminal.svg" alt="Aniket Yelameli — terminal" width="980" />
 </p>
 
 <!-- ─────────────────────────  links  ───────────────────────── -->
