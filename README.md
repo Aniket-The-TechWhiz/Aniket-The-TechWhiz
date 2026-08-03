@@ -12,10 +12,10 @@
 </p>
 
 <!-- ─────────────────────────  attached: stats (live from GitHub)  ───────────────────────── -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniket-The-TechWhiz&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=79c0ff&icon_color=7ee787&text_color=c9d1d9" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-The-TechWhiz&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=79c0ff&text_color=c9d1d9" height="170" />
-</p> -->
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aniket-The-TechWhiz&background=0d1117&border=30363d&stroke=30363d&ring=79c0ff&fire=f78166&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=79c0ff&sideLabels=8b949e&dates=6e7681&hide_border=false" />
 </p>
