@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td width="38%" valign="top">
-<img src="assets/developer-card.png" width="100%" alt="The Developer Tarot Card"/>
+<img src="image.png" width="100%" alt="The Developer Tarot Card"/>
 </td>
 <td width="62%" valign="middle">
 
